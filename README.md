@@ -31,7 +31,7 @@ This project was built as part of my learning journey to improve my understandin
 
 🔗 Live Project
 
-👉 https://aruna9603.github.io/Udemy-clone/
+👉 https://aruna9603.github.io/udemy-clone-project/
 
 💻 GitHub Repository
 
