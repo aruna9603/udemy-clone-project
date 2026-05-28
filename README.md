@@ -7,8 +7,6 @@ The project is focused on replicating the basic layout and design of the Udemy p
 
 Home Page – Displays courses, categories, and basic UI structure.
 
-Contact Page – Simple contact form for user interaction.
-
 🛠️ Technologies Used
 
 HTML
